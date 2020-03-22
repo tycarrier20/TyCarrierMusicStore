@@ -1,0 +1,48 @@
+<!-- Pricing -->
+
+
+<center><i style="color:#080808" class="far fa-credit-card fa-7x"></i></center></br></br>
+
+<div class="container">
+  <div class="row">
+    <div id="mp3Lease" class="col-sm"></br>
+      <center><h3><i class="far fa-file-audio"></i>&nbsp&nbspMP3 Lease</h3></center>
+      <center><p style="font-weight: 100; font-size: 80px;">$20.00</p></center>
+      <center><a href="#beatsLink"><button id="purchaseAbove">PURCHASE ABOVE</button></a></center></br>
+    <!--  <hr style="border: 1px solid #080808; border-radius: 7px 7px 7px 7px; background-color:#080808; height: 2px;" width="20%"></br> -->
+      <center><p>
+        MP3</br></br>
+        Sell up to 4,000 units</br></br>
+        Unlimited FREE distribution</br></br>
+        Ty Carrier Still Maintains Ownership</br></br>
+        Must Credit “Prod. by Ty Carrier"</br></br>
+      </p></center>
+    </div>
+    <div id="wavLease" class="col-sm"></br>
+      <center><h3><i class="fas fa-wave-square"></i>&nbsp&nbspWAV Lease</h3></center>
+      <center><p style="font-weight: 100; font-size: 80px;">$30.00</p></center>
+      <center><a href="#beatsLink"><button id="purchaseAbove">PURCHASE ABOVE</button></a></center></br>
+  <!--    <hr style="border: 1px solid #080808; border-radius: 7px 7px 7px 7px; background-color:#080808; height: 2px;" width="20%"></br> -->
+      <center><p>
+        High quality WAV</br></br>
+        Sell up to 8,000 units</br></br>
+        Unlimited FREE distribution</br></br>
+        Ty Carrier Still Maintains Ownership</br></br>
+        Must Credit “Prod. by Ty Carrier"</br></br>
+      </p></center>
+    </div>
+    <div id="wavTrackoutLease" class="col-sm"></br>
+      <center><h3><i class="fas fa-feather-alt"></i>&nbsp&nbspWAV Trackout Lease</h3></center>
+      <center><p style="font-weight: 100; font-size: 80px;">$100.00</p></center>
+      <center><a href="#beatsLink"><button id="purchaseAbove">PURCHASE ABOVE</button></a></center></br>
+    <!--  <hr style="border: 1px solid #080808; border-radius: 7px 7px 7px 7px; background-color:#080808; height: 2px;" width="20%"></br> -->
+      <center><p>
+        High quality WAV + Trackout Stems</br></br>
+        Sell up to 12,000 units</br></br>
+        Unlimited FREE distribution</br></br>
+        Ty Carrier Still Maintains Ownership</br></br>
+        Must Credit “Prod. by Ty Carrier"</br></br>
+      </p></center>
+    </div>
+  </div>
+</div></br></br></br>
